@@ -22,4 +22,7 @@ Sajten ska ha brister i cookies, tillgänglighet och integritetspolicy. Exempel 
 
 ## Sammanhang
 
-Uppdraget som sajten hör till står i CompliantHQ-repot, i `docs/introfilm/uppdrag.md`.
+Uppdraget som sajten hör till står i CompliantHQ-repot, i `docs/introfilm/uppdrag.md`. Läs det innan du börjar arbeta med sajten.
+
+- Det här repot ligger i `~/dev/node/complianthq-demo`, och CompliantHQ-repot bredvid det, i `~/dev/node/complianthq`. Uppdraget finns alltså i `~/dev/node/complianthq/docs/introfilm/uppdrag.md`.
+- Manus och anteckningar om filmen skrivs i `docs/introfilm/` i CompliantHQ-repot, aldrig här. Allt i det här repot publiceras på demo.complianthq.ai, också filer som inte är sidor.
